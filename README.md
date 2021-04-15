@@ -1,4 +1,4 @@
-# gpgme-1.6.0-rhel7.9
+# Install `gpgme-v1.6.0` on RHEL7.9
 
 
 Install `gpgme` version `1.6.0` on RHEL 7.9:
